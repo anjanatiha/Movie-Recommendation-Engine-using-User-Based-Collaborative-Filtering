@@ -1,0 +1,16 @@
+DATASET DESCRIPTION
+
+This dataset is a small subset of the data provided as part of the Netflix
+Prize. TrainingRatings.txt and TestingRatings.txt are respectively the
+training set and test set. Each of them has lines having the format:
+MovieID,UserID,Rating.
+
+Each row represents a rating of a movie by some user. The dataset
+contains 1821 movies and 28978 users in all. Ratings are integers from
+1 to 5. 
+
+The files movie_titles.txt is from the original Netflix dataset. The former has rows having the format:
+MovieID,YearOfRelease,Title.
+Note that it contains many more movies than have been used in our
+subset.
+
