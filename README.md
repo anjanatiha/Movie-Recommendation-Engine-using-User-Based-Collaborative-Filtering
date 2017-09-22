@@ -1,5 +1,6 @@
 # Recommendation-System-Python
-Recommendation System from Netflix movie and users data based on collaborative filtering.
+Developed user based movie recommendation system by implementing collaborative filtering and optimized for space and
+time complexity. Implemented on both C++ and Python separately. Applied on Netflix movie dataset containing 100000 user records and attained high performance in terms of time and space.Recommendation System from Netflix movie and users data based on collaborative filtering.
 
 For Python implementation:
 1. Please open "AnjanaTihaMachineLearningProjectvFinal.ipynb" file in python notebook(Anaconda contains most libraries)
